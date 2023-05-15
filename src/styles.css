@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(23, 24, 22);
+  color: rgb(133, 2, 255);
+}
+h1 {
+  font-family: "Poppins";
+  font-weight: 800;
+  text-align: center;
+  text-decoration: underline;
+}
+#shop {
+  padding-top: 1em;
+  padding-left: 2em;
+
+  color: rgb(149, 49, 243);
+  font-family: "Poppins", sans-serif;
+  font-size: 1.4em;
+  font-weight: 200;
+}
+
+hr {
+  border: 10px solid rgb(55, 8, 99);
+  border-radius: 5px;
+}
